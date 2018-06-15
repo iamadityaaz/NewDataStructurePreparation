@@ -55,7 +55,7 @@ public class StartPrepationNavDrawer extends AppCompatActivity
             @Override
             public boolean onTouch(View v, MotionEvent event) {
                 if (event.getAction() == MotionEvent.ACTION_UP){
-                    Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://learncodeonline.in"));
+                    Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://courses.learncodeonline.in/"));
                     startActivity(browserIntent);
                     return true;
                 }
