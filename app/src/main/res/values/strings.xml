@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Interview</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section:</string>
+    <string name="title_activity_start_prepation_nav_drawer">StartPrepationNavDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">interview preparation app for data structure</string>
+    <string name="nav_header_subtitle">please give your suggesstions</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="title_activity_first_screen">FirstScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
